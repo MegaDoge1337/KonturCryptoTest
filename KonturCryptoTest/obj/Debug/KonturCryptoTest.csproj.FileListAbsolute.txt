@@ -1,0 +1,11 @@
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\bin\Debug\KonturCryptoTest.exe.config
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\bin\Debug\KonturCryptoTest.exe
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\bin\Debug\KonturCryptoTest.pdb
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\obj\Debug\KonturCryptoTest.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\obj\Debug\KonturCryptoTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\obj\Debug\KonturCryptoTest.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\obj\Debug\KonturCryptoTest.exe
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\obj\Debug\KonturCryptoTest.pdb
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Администратор\source\repos\KonturCryptoTest\KonturCryptoTest\obj\Debug\KonturCryptoTest.csproj.CopyComplete
